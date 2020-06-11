@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		48AE433D2492DA9C0064E65D /* ImageClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 48AE433C2492DA9C0064E65D /* ImageClassifier.mlmodel */; };
 		D8BDDBC0249202DD008B772E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDDBBF249202DD008B772E /* AppDelegate.swift */; };
 		D8BDDBC2249202DD008B772E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDDBC1249202DD008B772E /* SceneDelegate.swift */; };
 		D8BDDBC4249202DD008B772E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDDBC3249202DD008B772E /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		48AE433C2492DA9C0064E65D /* ImageClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ImageClassifier.mlmodel; sourceTree = "<group>"; };
 		D8BDDBBC249202DD008B772E /* GithubTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8BDDBBF249202DD008B772E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D8BDDBC1249202DD008B772E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				D8BDDBC3249202DD008B772E /* ContentView.swift */,
 				D8BDDBC5249202DF008B772E /* Assets.xcassets */,
 				D8BDDBCA249202DF008B772E /* LaunchScreen.storyboard */,
+				48AE433C2492DA9C0064E65D /* ImageClassifier.mlmodel */,
 				D8BDDBCD249202DF008B772E /* Info.plist */,
 				D8BDDBC7249202DF008B772E /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 				D8BDDBC2249202DD008B772E /* SceneDelegate.swift in Sources */,
 				D8BDDBC4249202DD008B772E /* ContentView.swift in Sources */,
 				D8BDDBD424920E3E008B772E /* test1.swift in Sources */,
+				48AE433D2492DA9C0064E65D /* ImageClassifier.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

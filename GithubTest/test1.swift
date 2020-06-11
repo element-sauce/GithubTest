@@ -14,3 +14,4 @@ import Foundation
 
 // Aditya Sharma -- testing email.
 
+let model = ImageClassifier()
