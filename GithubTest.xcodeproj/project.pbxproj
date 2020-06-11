@@ -13,6 +13,7 @@
 		D8BDDBC6249202DF008B772E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8BDDBC5249202DF008B772E /* Assets.xcassets */; };
 		D8BDDBC9249202DF008B772E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8BDDBC8249202DF008B772E /* Preview Assets.xcassets */; };
 		D8BDDBCC249202DF008B772E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8BDDBCA249202DF008B772E /* LaunchScreen.storyboard */; };
+		D8BDDBD424920E3E008B772E /* test1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDDBD324920E3E008B772E /* test1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D8BDDBC8249202DF008B772E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D8BDDBCB249202DF008B772E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8BDDBCD249202DF008B772E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8BDDBD324920E3E008B772E /* test1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		D8BDDBBE249202DD008B772E /* GithubTest */ = {
 			isa = PBXGroup;
 			children = (
+				D8BDDBD324920E3E008B772E /* test1.swift */,
 				D8BDDBBF249202DD008B772E /* AppDelegate.swift */,
 				D8BDDBC1249202DD008B772E /* SceneDelegate.swift */,
 				D8BDDBC3249202DD008B772E /* ContentView.swift */,
@@ -149,6 +152,7 @@
 				D8BDDBC0249202DD008B772E /* AppDelegate.swift in Sources */,
 				D8BDDBC2249202DD008B772E /* SceneDelegate.swift in Sources */,
 				D8BDDBC4249202DD008B772E /* ContentView.swift in Sources */,
+				D8BDDBD424920E3E008B772E /* test1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
